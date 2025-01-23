@@ -30,6 +30,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
+            <p>Zane</p>
             <Image
               className="dark:invert"
               src="https://nextjs.org/icons/vercel.svg"
